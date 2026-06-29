@@ -1,9 +1,62 @@
-# Політика конфіденційності / Privacy Policy
+# Privacy Policy / Політика конфіденційності  
 
-**Garden Map — Планувальник саду**  
-Розробник: Mykola Kocherhan  
-Контакт: progres.eom@gmail.com  
-Дата набрання чинності: 04.06.2026
+**Garden Map — Garden planner**  
+Developer: Mykola Kocherhan  
+Contact: progres.eom@gmail.com  
+Effective Date: 04.06.2026
+
+---
+
+## 🇬🇧 English
+
+### 1. General
+
+This Privacy Policy describes what data the Garden Map app collects and how it is used.
+
+### 2. Data Collection
+
+Garden Map does not collect, transmit, or store any personal data on external servers.
+
+All data created by the user is stored **exclusively on the local device**:
+- garden layout (zones, objects, paths)
+- plant information (name, planting date, size, notes)
+- photos of plants and diary entries
+- garden diary records
+- tasks and reminders
+- app settings
+
+### 3. App Permissions
+
+Garden Map may request the following permissions:
+
+- **Camera** — to take photos of plants and diary entries
+- **Storage / Media** — to select photos from the gallery and save app data
+- **Notifications** — to send reminders for scheduled tasks (watering, fertilizing, etc.)
+
+None of these permissions are used to collect or share data with third parties.
+
+### 4. Third-Party Data Sharing
+
+Garden Map **does not share** any data with third parties, advertising networks, or analytics services.
+
+The "AI Advice" feature generates a text prompt based on your garden content and copies it to the clipboard. The user decides where to paste it (ChatGPT, Claude, etc.). The app does not automatically send any requests to external AI services.
+
+### 5. Monetization
+
+Garden Map uses Google Play Billing to process a one-time purchase for unlocking full access. Payment data is processed exclusively by Google — the app does not have access to the user's payment information.
+
+### 6. Data Security
+
+Since all data is stored locally on the device, its security depends on the security settings of the user's device.
+
+### 7. Changes to This Policy
+
+If this policy is updated, the new version will be published at this link. We recommend reviewing this page periodically.
+
+### 8. Contact
+
+For privacy-related questions, please contact:  
+📧 progres.eom@gmail.com
 
 ---
 
@@ -58,55 +111,3 @@ Garden Map використовує Google Play Billing для обробки о
 З питань конфіденційності звертайтесь:  
 📧 progres.eom@gmail.com
 
----
-
-## 🇬🇧 English
-
-### 1. General
-
-This Privacy Policy describes what data the Garden Map app collects and how it is used.
-
-### 2. Data Collection
-
-Garden Map does not collect, transmit, or store any personal data on external servers.
-
-All data created by the user is stored **exclusively on the local device**:
-- garden layout (zones, objects, paths)
-- plant information (name, planting date, size, notes)
-- photos of plants and diary entries
-- garden diary records
-- tasks and reminders
-- app settings
-
-### 3. App Permissions
-
-Garden Map may request the following permissions:
-
-- **Camera** — to take photos of plants and diary entries
-- **Storage / Media** — to select photos from the gallery and save app data
-- **Notifications** — to send reminders for scheduled tasks (watering, fertilizing, etc.)
-
-None of these permissions are used to collect or share data with third parties.
-
-### 4. Third-Party Data Sharing
-
-Garden Map **does not share** any data with third parties, advertising networks, or analytics services.
-
-The "AI Advice" feature generates a text prompt based on your garden content and copies it to the clipboard. The user decides where to paste it (ChatGPT, Claude, etc.). The app does not automatically send any requests to external AI services.
-
-### 5. Monetization
-
-Garden Map uses Google Play Billing to process a one-time purchase for unlocking full access. Payment data is processed exclusively by Google — the app does not have access to the user's payment information.
-
-### 6. Data Security
-
-Since all data is stored locally on the device, its security depends on the security settings of the user's device.
-
-### 7. Changes to This Policy
-
-If this policy is updated, the new version will be published at this link. We recommend reviewing this page periodically.
-
-### 8. Contact
-
-For privacy-related questions, please contact:  
-📧 progres.eom@gmail.com
